@@ -11,3 +11,13 @@ Computes macroscopic thermodynamic properties like temperature and pressure usin
 Uses matplotlib to animate the molecular interactions and visualize gas dynamics over time.
 ## Parameter Customization: 
 Allows users to adjust the number of molecules, initial velocities, and other system parameters.
+
+## package required:
+numpy
+matplotlib
+
+## Usage:
+no prior installation required
+JUST RUN
+test files are included for testing ball generators atc. 
+Thermo Snooker.py is  combination of whole simulation
