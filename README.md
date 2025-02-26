@@ -18,6 +18,9 @@ matplotlib
 
 ## Usage:
 no prior installation required
+
 JUST RUN
-test files are included for testing ball generators atc. 
-Thermo Snooker.py is  combination of whole simulation
+
+test files are included for testing ball generators, testing scenarios on mixture of gaseous atoms etc. 
+T
+hermo Snooker.py is  combination of whole simulation
