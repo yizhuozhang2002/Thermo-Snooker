@@ -21,6 +21,6 @@ no prior installation required
 
 JUST RUN
 
-test files are included for testing ball generators, testing scenarios on mixture of gaseous atoms etc. 
+Everything included in the thermo snookers git folder, test files are included for testing ball generators, testing scenarios on mixture of gaseous atoms etc. 
 
 Thermo Snooker.py is the combination of whole simulation
